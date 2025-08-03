@@ -78,11 +78,7 @@ Desenvolver e validar um aplicativo para dispositivos móveis que aprimore a com
 
 Para alcançar o objetivo geral, serão percorridas as seguintes etapas:
 
-*   Realizar uma revisão bibliográfica sobre comunicação de risco, gestão de desastres e o uso de tecnologias móveis neste contexto.
-*   Identificar, por meio de pesquisa-ação junto aos agentes da Defesa Civil, os requisitos funcionais e não funcionais essenciais para o aplicativo.
-*   Projetar a arquitetura de software e a interface do aplicativo, priorizando a usabilidade e a acessibilidade para os diferentes perfis de usuários (cidadão e gestor).
-*   Desenvolver um protótipo funcional do aplicativo, implementando funcionalidades de cadastro, envio de notícias e alertas, mapeamento de áreas de risco e abrigos, e seleção de localidades de interesse.
-*   Validar a usabilidade e a eficácia do aplicativo por meio de um exercício simulado de desastre, envolvendo a Defesa Civil e a comunidade de uma área de risco selecionada.
+<img width="840" height="816" alt="Image" src="https://github.com/user-attachments/assets/46eb5f0f-e59f-43a6-8565-97a7efec1e26" />
 
 5\. Metodologia
 ---------------

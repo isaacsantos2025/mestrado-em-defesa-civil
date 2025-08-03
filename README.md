@@ -5,7 +5,7 @@ A apresentação de um código html e css, de um pré-projeto de mestrado de def
 Segue o link do projeto: https://g.co/gemini/share/abc908593d87
 
 
-  Pré-Projeto de Pesquisa | Mestrado em Defesa Civil     body { font-family: 'Inter', sans-serif; scroll-behavior: smooth; } /\* Style for the active link in the navigation \*/ .nav-link.active { background-color: #1d4ed8; /\* blue-700 \*/ color: white; font-weight: 600; } /\* Custom scrollbar for better aesthetics \*/ ::-webkit-scrollbar { width: 8px; } ::-webkit-scrollbar-track { background: #f1f5f9; /\* slate-100 \*/ } ::-webkit-scrollbar-thumb { background: #3b82f6; /\* blue-500 \*/ border-radius: 10px; } ::-webkit-scrollbar-thumb:hover { background: #2563eb; /\* blue-600 \*/ }
+  Pré-Projeto de Pesquisa | Mestrado em Defesa Civil     
 
 Pré-Projeto
 -----------
@@ -205,4 +205,3 @@ A viabilidade do projeto é assegurada por dois fatores principais. Primeiro, pe
 *   STARK, J. **Building Android Apps with HTML, CSS and JavaScript** 1 ed., O'Reilly Media, p. 14, 2010.
 *   VAHIDNIA, M. H.; HOSSEINALI, F.; SHAFIEI, M. Crowd source mapping of target buildings in hazard: the utilization of smartphone technologies and geographic services. **Applied Geomatics**, v. 12, p. 3-14, 2020.
 
-// JavaScript for active link highlighting on scroll document.addEventListener('DOMContentLoaded', () => { const sections = document.querySelectorAll('section'); const navLinks = document.querySelectorAll('.nav-link'); const observer = new IntersectionObserver((entries) => { entries.forEach(entry => { if (entry.isIntersecting) { navLinks.forEach(link => { link.classList.remove('active'); if (link.getAttribute('href').substring(1) === entry.target.id) { link.classList.add('active'); } }); } }); }, { threshold: 0.5, rootMargin: '-20% 0px -20% 0px' }); // Adjust rootMargin to activate when section is more centered sections.forEach(section => { observer.observe(section); }); });

@@ -4,7 +4,7 @@ A apresentação de um código html e css, de um pré-projeto de mestrado de def
 
 Segue o link do projeto: https://g.co/gemini/share/abc908593d87
 
-![Texto Alternativo](https://images.app.goo.gl/au4P6QwyKrFzSpDg8)
+https://github.com/isaacsantos2025/mestrado-em-defesa-civil/issues/1#issue-3287572666
 
   Pré-Projeto de Pesquisa | Mestrado em Defesa Civil     
 

@@ -4,7 +4,7 @@ A apresentação de um código html e css, de um pré-projeto de mestrado de def
 
 Segue o link do projeto: https://g.co/gemini/share/abc908593d87
 
-![Texto Alternativo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gov.br%2Fmdr%2Fpt-br%2Fassuntos%2Fprotecao-e-defesa-civil%2Fdefesa-civil%2Fcomo-se-organiza&psig=AOvVaw2iKtNTZZq6ToxsvUaeEoOc&ust=1754344210451000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICpkezO744DFQAAAAAdAAAAABAE](https://images.app.goo.gl/au4P6QwyKrFzSpDg8)
+![Texto Alternativo](https://images.app.goo.gl/au4P6QwyKrFzSpDg8)
 
   Pré-Projeto de Pesquisa | Mestrado em Defesa Civil     
 
